@@ -12,7 +12,7 @@ class Navbar extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          EthSwap
+          Lupa Swap: ETH -> LUPA
         </a>
 
         <ul className="navbar-nav px-3">
